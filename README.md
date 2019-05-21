@@ -1,2 +1,2 @@
-# Pastor
-repository for initial git training
+# Tacos al Pastor 
+repository for initial **Git** training
