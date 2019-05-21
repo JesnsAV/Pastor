@@ -1,2 +1,2 @@
 # Pastor
-nrepository for initial git training
+repository for initial git training
