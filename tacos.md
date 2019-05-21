@@ -1,6 +1,6 @@
 # Tacos de Pastor
 
-- Tortillas de maíz
+- Tortillas de maíz (con copia)
 - Pastor
 - Cilantro
 - Limón

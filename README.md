@@ -28,4 +28,4 @@ for file in filenames:
 - chile morita
 - chile de árbol
 
-put into a bowl blend and mix with meat
+put into a bowl blend all ingredients and mix with meat
