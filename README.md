@@ -25,6 +25,7 @@ for file in filenames:
 - cumin
 - salt
 - pepper
-- chile
+- chile morita
+- chile de árbol
 
 put into a bowl blend and mix with meat
