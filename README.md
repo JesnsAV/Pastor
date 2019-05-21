@@ -13,3 +13,18 @@ repository for initial **Git** training
 for file in filenames:
   print(file)
 ```
+
+
+#A Recipe for Pastor
+
+-pork
+-axiote
+-lime
+-orange
+-cinnamon
+-cumin
+-salt
+-pepper
+-chile
+
+put into a bowl blend and mix with meat
