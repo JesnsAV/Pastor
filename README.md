@@ -17,14 +17,14 @@ for file in filenames:
 
 # A Recipe for Pastor
 
--pork
--axiote
--lime
--orange
--cinnamon
--cumin
--salt
--pepper
--chile
+- pork
+- axiote
+- lime
+- orange
+- cinnamon
+- cumin
+- salt
+- pepper
+- chile
 
 put into a bowl blend and mix with meat
